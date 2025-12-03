@@ -20,13 +20,15 @@
 
 ### Para Informática
 
-||||
-|-|-|-|
-La ingeniería de software enseña sobre entornos controlados: requisitos bien definidos, refactorización posible en cualquier momento, arquitecturas que se diseñan desde cero, decisiones técnicas basadas en criterios técnicos. Es el laboratorio donde las variables se controlan.|La dirección de SI presenta la realidad: sistemas legacy que nadie quiere tocar pero que sostienen el negocio crítico, decisiones técnicas subordinadas a políticas presupuestarias, arquitecturas ideales imposibles por restricciones organizacionales, frameworks corporativos obligatorios aunque inadecuados, resistencia humana al cambio técnicamente superior.|Esta fricción genera aprendizaje que no puede obtenerse de otro modo: usar el choque para desarrollar ingenieros que entienden que su trabajo existe dentro de contextos organizacionales complejos, no en el espacio abstracto de los algoritmos perfectos.
+> *La ingeniería de software enseña sobre entornos controlados: requisitos bien definidos, refactorización posible en cualquier momento, arquitecturas que se diseñan desde cero, decisiones técnicas basadas en criterios técnicos. Es el laboratorio donde las variables se controlan.*
+
+|||
+|-|-|
+|La dirección de SI presenta la realidad: sistemas legacy que nadie quiere tocar pero que sostienen el negocio crítico, decisiones técnicas subordinadas a políticas presupuestarias, arquitecturas ideales imposibles por restricciones organizacionales, frameworks corporativos obligatorios aunque inadecuados, resistencia humana al cambio técnicamente superior.|Esta fricción genera aprendizaje que no puede obtenerse de otro modo: usar el choque para desarrollar ingenieros que entienden que su trabajo existe dentro de contextos organizacionales complejos, no en el espacio abstracto de los algoritmos perfectos.
 
 ### Para ADE & IOI (gestión & operaciones)
 
-Aquí frecuentemente se conceptualizan los sistemas de información como cajas negras intercambiables: "necesitamos un CRM", "vamos a digitalizarnos", "migremos a la nube". Esta abstracción oculta restricciones técnicas críticas que determinan qué es viable estratégicamente.
+> *Desde estas disciplinas frecuentemente se conceptualizan los sistemas de información como cajas negras intercambiables: "necesitamos un CRM", "vamos a digitalizarnos", "migremos a la nube". Esta abstracción oculta restricciones técnicas críticas que determinan qué es viable estratégicamente.*
 
 <div align=center>
 
@@ -41,6 +43,6 @@ Este choque genera comprensión de que las decisiones técnicas no son delegable
 
 ## El reto
 
-El reto es estructurar proyectos donde ningún perfil puede tener éxito solo: el informático necesita justificar decisiones técnicas con criterios de negocio, el gestor necesita validar viabilidad técnica antes de proponer estrategia, el industrial necesita diseñar procesos que los sistemas puedan soportar: el aprendizaje ocurre precisamente en esa negociación constante.
+El reto es estructurar proyectos donde ningún perfil puede tener éxito solo: el informático necesita justificar decisiones técnicas con criterios de negocio, el gestor necesita validar viabilidad técnica antes de proponer estrategia, el industrial necesita diseñar procesos que los sistemas puedan soportar. El aprendizaje ocurre precisamente en esa negociación constante.
 
 > No se trata de homogeneizar la clase, se trata de organizar encuentros productivos entre marcos mentales (aparentemente) incompatibles.

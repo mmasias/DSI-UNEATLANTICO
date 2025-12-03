@@ -15,3 +15,11 @@
 </div>
 
 - [PDF asignatura](https://campusold.uneatlantico.es/pluginfile.php/97834/mod_folder/content/0/Libro%20DSI%20-%20UNEATLANTICO.pdf?forcedownload=1)
+
+## Motivación:
+
+La ingeniería de software enseña sobre entornos controlados: requisitos bien definidos, refactorización posible en cualquier momento, arquitecturas que se diseñan desde cero, decisiones técnicas basadas en criterios técnicos. Es el laboratorio donde las variables se controlan.
+
+La dirección de SI presenta la realidad: sistemas legacy que nadie quiere tocar pero que sostienen el negocio crítico, decisiones técnicas subordinadas a políticas presupuestarias, arquitecturas ideales imposibles por restricciones organizacionales, frameworks corporativos obligatorios aunque inadecuados, resistencia humana al cambio técnicamente superior.
+
+Esta fricción genera aprendizaje que no puede obtenerse de otro modo: usar el choque para desarrollar ingenieros que entienden que su trabajo existe dentro de contextos organizacionales complejos, no en el espacio abstracto de los algoritmos perfectos.

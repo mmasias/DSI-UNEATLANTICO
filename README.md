@@ -39,7 +39,7 @@ Esta visión ignora que el software acumula deuda técnica, que los sistemas leg
 
 </div>
 
-Este choque genera comprensión de que las decisiones técnicas no son delegables: condicionan fundamentalmente qué estrategias son viables, en qué plazos, con qué riesgos. Desarrolla capacidad de colaboración efectiva con perfiles técnicos y de diseño estratégico que respeta restricciones técnicas reales."
+Este choque genera comprensión de que las decisiones técnicas no son delegables: condicionan fundamentalmente qué estrategias son viables, en qué plazos, con qué riesgos. Desarrolla capacidad de colaboración efectiva con perfiles técnicos y de diseño estratégico que respeta restricciones técnicas reales.
 
 ## El reto
 
